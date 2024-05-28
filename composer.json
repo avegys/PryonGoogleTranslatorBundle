@@ -1,9 +1,9 @@
 {
-    "name": "zeliard91/google-translator-bundle",
+    "name": "avegys/google-translator-bundle",
     "type": "symfony-bundle",
     "description": "Symfony service designed to work with Google Translate API",
     "keywords": [ "zeliard91", "translate", "google", "API"],
-    "homepage": "https://github.com/zeliard91/PryonGoogleTranslatorBundle",
+    "homepage": "https://github.com/avegys/PryonGoogleTranslatorBundle",
     "license": "MIT",
     "authors": [
         {
